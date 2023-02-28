@@ -1,0 +1,16 @@
+ body{background: linear-gradient(to right, #CD98BC 50%,#4964AB 100%);
+border: groove 1em #C3447A;
+border-radius: 1em; }
+ h1 {max-width: 510px;
+ border: 5px dotted lightblue;
+ border-radius: 40px 10px;
+  padding: 25px 50px 75px 100px;
+  background-color: #92A8D1;
+  color:#D65076;
+  text-shadow: 10px 5px 4px #F7CAC9;}
+ p {color:#EDF1FF;
+ text-decoration: underline;
+ font-family: Copperplate, Papyrus;}
+ ol {border-radius: 50px; 
+	 max-width: 200px;
+ background-color:#B565A7;}
